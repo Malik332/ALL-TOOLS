@@ -4,7 +4,7 @@
 import os, sys
 import readline
 from time import sleep as timeout
-from AllinCore.py import *
+
 
 print("Malik hackers")
 print("Authur:malik_atiquz_.zaman")
